@@ -1,0 +1,31 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5rem;
+    background: linear-gradient(cornflowerblue, black);
+    height: 100vh;
+    text-align: center;
+}
+
+.h1 {
+    color:mediumspringgreen;
+}
+
+.h2 {
+    color:aquamarine;
+}
+
+.h3 {
+    color: powderblue;
+}
+
+.h4 {
+    color:bisque;
+}
+
+.h5 {
+    color:goldenrod;
+}
+
+.h6 {
+    color:coral;
+}
